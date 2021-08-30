@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Kriz1618/reactTSX-class-components/static/css/main.136f3b4b.chunk.css",
+    "main.js": "/Kriz1618/reactTSX-class-components/static/js/main.215ebdf9.chunk.js",
+    "main.js.map": "/Kriz1618/reactTSX-class-components/static/js/main.215ebdf9.chunk.js.map",
+    "runtime-main.js": "/Kriz1618/reactTSX-class-components/static/js/runtime-main.06469d97.js",
+    "runtime-main.js.map": "/Kriz1618/reactTSX-class-components/static/js/runtime-main.06469d97.js.map",
+    "static/js/2.ef95e85a.chunk.js": "/Kriz1618/reactTSX-class-components/static/js/2.ef95e85a.chunk.js",
+    "static/js/2.ef95e85a.chunk.js.map": "/Kriz1618/reactTSX-class-components/static/js/2.ef95e85a.chunk.js.map",
+    "index.html": "/Kriz1618/reactTSX-class-components/index.html",
+    "static/css/main.136f3b4b.chunk.css.map": "/Kriz1618/reactTSX-class-components/static/css/main.136f3b4b.chunk.css.map",
+    "static/js/2.ef95e85a.chunk.js.LICENSE.txt": "/Kriz1618/reactTSX-class-components/static/js/2.ef95e85a.chunk.js.LICENSE.txt",
+    "static/media/generic-image.8939f288.jpg": "/Kriz1618/reactTSX-class-components/static/media/generic-image.8939f288.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06469d97.js",
+    "static/js/2.ef95e85a.chunk.js",
+    "static/css/main.136f3b4b.chunk.css",
+    "static/js/main.215ebdf9.chunk.js"
+  ]
+}
